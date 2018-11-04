@@ -20,3 +20,7 @@ _When adding an entry use any existing one as a reference._
      [yevhenorlov](https://github.com/yevhenorlov) [2018-11-04]
      ([proof](https://github.com/kottans/mock-repo/pull/161#issuecomment-435701045))
 
+* [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
+   - [zonzujiro](https://github.com/zonzujiro) endorsed by
+     [suchov](https://github.com/suchov) [2018-11-04]
+     
