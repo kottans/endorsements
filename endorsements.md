@@ -14,3 +14,9 @@ _When adding an entry use any existing one as a reference._
    - [KurosavaAkira](https://github.com/KurosavaAkira) endorsed by
      [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-01]
      ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/3#issuecomment-435157422))
+
+ * [![Kottans-Student-Gitignore](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gitignore-orange.svg)](https://github.com/kottans/kottans/endorsements.md)
+   - [Karasb888](https://github.com/Karasb888) endorsed by
+     [yevhenorlov](https://github.com/yevhenorlov) [2018-11-04]
+     ([proof](https://github.com/kottans/mock-repo/pull/161#issuecomment-435701045))
+
