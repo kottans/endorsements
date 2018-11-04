@@ -23,4 +23,7 @@ _When adding an entry use any existing one as a reference._
 * [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
    - [zonzujiro](https://github.com/zonzujiro) endorsed by
      [suchov](https://github.com/suchov) [2018-11-04]
-     
+
+* [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
+   - [sudodoki](https://github.com/sudodoki) endorsed by
+     [suchov](https://github.com/suchov) [2018-11-04]
