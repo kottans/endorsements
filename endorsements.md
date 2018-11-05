@@ -10,6 +10,13 @@ endorsements.
 _If a badge is not among top-level list items just add one._
 _When adding an entry use any existing one as a reference._
 
+
+ * [![Founder-of-Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Founder%20of%20Kottans-BlueViolet.svg)](https://github.com/kottans/kottans/endorsements.md)
+   - [suchov](https://github.com/suchov) endorsed by
+     [HolyKottan](https://github.com/HolyKottan) [2012-01-01]
+
+ ---
+
  * [![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/kottans/endorsements.md)
    - [KurosavaAkira](https://github.com/KurosavaAkira) endorsed by
      [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-01]
@@ -35,3 +42,4 @@ _When adding an entry use any existing one as a reference._
 * [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
    - [shvaikalesh](https://github.com/shvaikalesh) endorsed by
      [suchov](https://github.com/suchov) [2018-11-05]
+
