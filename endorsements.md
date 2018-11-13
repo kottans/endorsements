@@ -35,3 +35,9 @@ _When adding an entry use any existing one as a reference._
 * [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
    - [shvaikalesh](https://github.com/shvaikalesh) endorsed by
      [suchov](https://github.com/suchov) [2018-11-05]
+
+* [![Kottans-Student-Conflict-resolution](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20conflict%20resolution-brightgreen.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+   - [ApolloSG](https://github.com/ApolloSG) endorsed by
+     [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-14]
+     ([proof](https://github.com/kottans/mock-repo/pull/167#issuecomment-438464623))
+
