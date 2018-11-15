@@ -1,7 +1,7 @@
 [![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans)
 [![Kottans badges](https://img.shields.io/badge/%3D(%5E.%5E)%3D-badges-blue.svg)](https://github.com/kottans/badges.md)
 
-# Endorsements
+# !Attention! moved to README.md Endorsements 
 
 This document is a register of
 [Kottans badge](https://github.com/kottans/artifacts/blob/master/badges.md)
