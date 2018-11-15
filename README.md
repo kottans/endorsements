@@ -9,7 +9,7 @@ This repo contains documents regarding general
 
 # Endorsements
 
-This document is a register of
+This section contains a register of
 [Kottans badge](https://github.com/kottans/artifacts/blob/master/badges.md)
 endorsements.
 
