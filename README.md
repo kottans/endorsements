@@ -5,8 +5,6 @@
 This repo contains documents regarding general
 [Kottans organization](https://github.com/kottans) matters.
 
-[Kottans badge](https://github.com/kottans/artifacts/blob/master/badges.md)
-
 # Endorsements
 
 This section contains a register of
