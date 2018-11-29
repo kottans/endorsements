@@ -45,3 +45,7 @@ _When adding an entry use any existing one as a reference._
      [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-14]
      ([proof](https://github.com/kottans/mock-repo/pull/167#issuecomment-438464623))
 
+* [![Kottans-Student-Contribution-workflow](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20contribution%20workflow-6f42c1.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+   - [maxovsanyuk](https://github.com/maxovsanyuk) endorsed by
+     [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-29]
+     ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/37#issuecomment-442990231))
