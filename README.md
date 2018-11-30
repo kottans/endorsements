@@ -14,6 +14,9 @@ endorsements.
 _If a badge is not among top-level list items just add one._
 _When adding an entry use any existing one as a reference._
 
+ * [![Founder-of-Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Founder%20of%20Kottans-BlueViolet.svg)](https://github.com/kottans/kottans/endorsements.md)
+   - [suchov](https://github.com/suchov) endorsed by
+     [sudodoki](https://github.com/sudodoki) [day 1 of kottans]
 
 * [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
    - [zonzujiro](https://github.com/zonzujiro) endorsed by
