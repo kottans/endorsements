@@ -47,7 +47,10 @@ _When adding an entry use any existing one as a reference._
      ([proof](https://github.com/kottans/mock-repo/pull/167#issuecomment-438464623))
    - [Karasb888](https://github.com/Karasb888) endorsed by
      [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-12-04]
-    ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/66#issuecomment-444229594))
+     ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/66#issuecomment-444229594))
+   - [Zihfred](https://github.com/Zihfred) endorsed by
+     [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-12-08]
+     ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/73#issuecomment-445447314))
 
 * [![Kottans-Student-Contribution-workflow](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20contribution%20workflow-6f42c1.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
    - [maxovsanyuk](https://github.com/maxovsanyuk) endorsed by
