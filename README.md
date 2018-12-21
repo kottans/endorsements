@@ -61,3 +61,4 @@ _When adding an entry use any existing one as a reference._
    - [justdevway](https://github.com/justdevway) endorsed by
      [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-12-21]
      ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/81#issuecomment-449457341))
+
