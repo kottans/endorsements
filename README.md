@@ -56,3 +56,9 @@ _When adding an entry use any existing one as a reference._
    - [maxovsanyuk](https://github.com/maxovsanyuk) endorsed by
      [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-29]
      ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/37#issuecomment-442990231))
+      
+* [![Kottans-Student-OOP](https://img.shields.io/badge/%3D(%5E.%5E)%3D-extends%20Developer-blue.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+   - [justdevway](https://github.com/justdevway) endorsed by
+     [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-12-21]
+     ([proof](https://github.com/kottans/frontend-2019-homeworks/pull/81#issuecomment-449457341))
+
