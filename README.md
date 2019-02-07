@@ -31,6 +31,46 @@ _When adding an entry use any existing one as a reference._
    - [shvaikalesh](https://github.com/shvaikalesh) endorsed by
      [suchov](https://github.com/suchov) [2018-11-05]
 
+* [![Kottans-Mentor](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Mentor-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
+
+   - [AMashoshyna](https://github.com/AMashoshyna) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [A-Ostrovnyy](https://github.com/A-Ostrovnyy) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [IgorKurkov](https://github.com/IgorKurkov) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [lempiy](https://github.com/lempiy) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [OleksiyRudenko](https://github.com/OleksiyRudenko) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [yevhenorlov](https://github.com/yevhenorlov) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [zonzujiro](https://github.com/zonzujiro) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+* [![Kottans-Junior-Mentor](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Mentor%20Jr.-dc143c.svg)](https://github.com/kottans/kottans/endorsements.md)
+
+   - [beta-version-profile](https://github.com/beta-version-profile) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [kalash14](https://github.com/kalash14) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [o-msh](https://github.com/o-msh) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [Oodmincheg](https://github.com/Oodmincheg) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
+   - [Roman-Halenko](https://github.com/Roman-Halenko) endorsed by
+     [suchov](https://github.com/suchov) [2019-02-07]
+
 * [![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/kottans/endorsements.md)
   - [KurosavaAkira](https://github.com/KurosavaAkira) endorsed by
     [OleksiyRudenko](https://github.com/OleksiyRudenko) [2018-11-01]
